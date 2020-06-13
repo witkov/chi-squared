@@ -88,7 +88,7 @@ hold off
 %define chi-squared plot interval as A^* +- 2*sigma_A
 twosigma = [A_best-2*sigma_A A_best+2*sigma_A];
 
-%plot chi-squared paraboloa and minchi+1
+%plot chi-squared parabola and minchi+1
 figure()
 fplot( @(A) (A - A_best).^2/sigma_A.^2 + minchi2, twosigma)
 xlabel('A','Fontsize',16)
