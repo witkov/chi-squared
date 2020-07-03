@@ -1,0 +1,38 @@
+Errata Sheet for "Chi-Squared Data Analysis and Model Testing for Beginners" by Carey Witkov and Keith Zengel, Oxford University Press, 2019.
+
+page vi
+
+In the 2nd full paragraph, the link shown for this book's OUP companion website is in error.  The correct link should be: https://global.oup.com/booksites/content/9780198847151/
+A direct link to the chi-squared scripts (and this Errata Sheet) is: https://github.com/witkov/chi-squared
+
+In the last line of the MATLAB(R) attribution at the bottom of the page: "oce" should be "office"
+
+page 4
+
+In the last line of the footnote at the bottom of the page: "the" should be deleted. 
+
+page 34
+
+Equation 36:  There should be an equals sign before and after the 0.
+
+page 62
+
+Section 7.2, first line:  delete "a"
+
+page 63
+
+In the line after equation (98) "Guassian" should be "Gaussian"
+
+page 68
+
+The end of the sentence after equation (120) should be changed from "Section 7.3" to "Section 7.2"
+
+page 90
+
+In the middle of Equation (E41), "+-" should be "+"
+
+
+
+
+
+
