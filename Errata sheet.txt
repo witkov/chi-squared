@@ -2,7 +2,7 @@ Errata Sheet for "Chi-Squared Data Analysis and Model Testing for Beginners" by 
 
 page vi
 
-In the 2nd full paragraph, the link shown for this book's OUP companion website is in error.  The correct link should be: https://global.oup.com/booksites/content/9780198847151/
+In the 2nd full paragraph, the link for this book's OUP companion website should be: https://global.oup.com/booksites/content/9780198847151/
 A direct link to the chi-squared scripts (and this Errata Sheet) is: https://github.com/witkov/chi-squared
 
 In the last line of the MATLAB(R) attribution at the bottom of the page: "oce" should be "office"
