@@ -33,7 +33,7 @@ The last line of equation (E28) should be:  Cmin = Syy - ((Sxy)^2)/Sxx
 
 page 90
 
-In the middle of Equation (E41), "+-" should be "+"
+In the middle of equation (E41), "+-" should be "+"
 
 
 
