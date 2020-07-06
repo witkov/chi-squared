@@ -27,6 +27,10 @@ page 68
 
 The end of the sentence after equation (120) should be changed from "Section 7.3" to "Section 7.2"
 
+page 88
+
+The last line of equation (E28) should be:  Cmin = Syy - ((Sxy)^2)/Sxx 
+
 page 90
 
 In the middle of Equation (E41), "+-" should be "+"
