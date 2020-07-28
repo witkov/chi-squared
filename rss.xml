@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Software and Errata Sheet</title>
+<link>https://github.com/witkov/chi-squared</link>
+<description>Software and Errata Sheet</title>
+<language>en-us</language>
+<item>
+<link>https:/github.com/witkov/chi-squared</link>
+<description><![CDATA[<Software and an errata sheet for the book "Chi-squared Data Analysis and Model Testing for Beginners" by Carey Witkov and Keith Zengel can be found at: < href="https:/github.com/witkov/chi-squared></a>]]></description>
+</item>
+</channel>
+</rss>
